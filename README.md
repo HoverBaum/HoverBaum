@@ -13,7 +13,13 @@ I am Hendrik, enthusiastic JavaScript developer 🧑‍💻 for fun and speaker 
 
 ### 😊 Projects I am proud of
 
+#### [leagueSkins](https://leagueskins.wallbaum.dev/)
 
+An explorer for skins of Legue of Legends champions.
+
+#### [MeiliDu](https://github.com/HoverBaum/meilidu-hexo)
+
+A clean and written content focussed theme for Hexo based blogs.
 
 ### 👓 Read more
 
