@@ -23,10 +23,10 @@ A clean and written content focussed theme for Hexo based blogs.
 
 ### 👓 Read more
 
-- [My Website: hendrikwallbaum.de](https://hendrikwallbaum.de/)
-- [Talks by me: talks.hoverbaum.net](https://talks.hoverbaum.net/)
-- [Blog: hoverbaum.net](https://hoverbaum.net/)
-- [Blog on dev.to](https://dev.to/hoverbaum)
+- My Website: [hendrikwallbaum.de](https://hendrikwallbaum.de/)
+- Talks by me: [talks.hoverbaum.net](https://talks.hoverbaum.net/)
+- Blog: [hoverbaum.net](https://hoverbaum.net/)
+- Blog on [dev.to](https://dev.to/hoverbaum)
 
 ### 🤝 Connect
 
