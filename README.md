@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Hendrik, enthusiastic JavaScript developer 🧑‍💻 for fun and speaker 🎤
+I am Hendrik, enthusiastic JavaScript developer for fun 👨🏼‍💻 and speaker 🎤
 
 ### 💬 Ask me about
 
