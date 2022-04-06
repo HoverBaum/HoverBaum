@@ -10,8 +10,15 @@ I am Hendrik, enthusiastic JavaScript developer for fun 👨🏼‍💻  and spe
 - [Capacitor](https://capacitorjs.com/)
 - [TestingLibrary](https://testing-library.com/)
 - [Cypress](https://www.cypress.io/)
+- Growth Engineering
+- Public speaking
+- Distributed decision making
 
 ### 😊 Projects I am proud of
+
+#### [The Sword](https://inksword.wallbaum.dev/)
+
+An interactive fiction adventure inspired by [Wanderlust Traveling stories](https://differenttales.com/wanderlust/). ([repo](https://github.com/HoverBaum/the-sword))
 
 #### [leagueSkins](https://leagueskins.wallbaum.dev/)
 
