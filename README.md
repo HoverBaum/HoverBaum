@@ -4,13 +4,9 @@ I am Hendrik, enthusiastic JavaScript developer for fun 👨🏼‍💻  and spe
 
 ### 💬 Ask me about
 
-- JavaScript
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
-- [Capacitor](https://capacitorjs.com/)
-- [TestingLibrary](https://testing-library.com/)
-- [Cypress](https://www.cypress.io/)
-- Growth Engineering
+- Growth Hacking
 - Public speaking
 - Distributed decision making
 
@@ -38,6 +34,5 @@ A clean and written content focussed theme for Hexo based blogs.
 ### 🤝 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/hendrik-wallbaum-196432113/)
-- [Xing](https://www.xing.com/profile/Hendrik_Wallbaum2/cv)
 
 Or reach me at: [mail@hendrikwallbaum.de](mailto:mail@hendrikwallbaum.de).
