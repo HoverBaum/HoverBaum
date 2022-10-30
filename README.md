@@ -4,11 +4,13 @@ I am Hendrik, enthusiastic JavaScript developer for fun 👨🏼‍💻  and spe
 
 ### 💬 Ask me about
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [React](https://reactjs.org/)
+- TypeScript
+- React
+- Deno
 - Growth Hacking
 - Public speaking
 - Distributed decision making
+- Boardgames
 
 ### 😊 Projects I am proud of
 
