@@ -1,15 +1,16 @@
 ## Hi there 👋
 
-I am Hendrik, enthusiastic JavaScript developer for fun 👨🏼‍💻  and speaker 🎤
+I am Hendrik, GenAI and JavaScript enthusiast; developer for fun 👨🏼‍💻  and speaker 🎤
 
 ### 💬 Ask me about
 
+- GenAI
 - TypeScript
 - React
 - Deno 🦕
 - Growth Hacking
 - Public speaking 🎤
-- Distributed decision making
+- Distributed decision-making
 - Boardgames 🎲
 
 ### 😊 Projects I am proud of
