@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Hendrik, GenAI and JavaScript enthusiast; developer for fun 👨🏼‍💻  and speaker 🎤
+I am Hendrik, Developer for Fun 🎊 GenAI tinkerer 🔧 JavaScript enthusiast 🧑‍💻 speaker 🎤
 
 ### 💬 Ask me about
 
