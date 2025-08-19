@@ -15,6 +15,10 @@ I am Hendrik, Developer for Fun 🎊 GenAI tinkerer 🔧 JavaScript enthusiast �
 
 ### 😊 Projects I am proud of
 
+#### [Fluss Vis](https://flussvis.dev/)
+
+A visual flow editor for TypeScript applications. From visual workflows to strongly typed applications.
+
 #### [Talis](https://talis.wallbaum.dev/)
 
 A dice rolling app for Pen&Paper games.
